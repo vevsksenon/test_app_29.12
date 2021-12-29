@@ -10,3 +10,7 @@ function parent() {
   return [33, 77, 99, 81, 3].map(function(I) { return I * this.multiplier}, this);
 }
 ```
+
+В папке `my-test-app/video/` лежит демонстрация работы
+
+В папке 
